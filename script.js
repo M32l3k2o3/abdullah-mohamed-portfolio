@@ -115,7 +115,7 @@ const projects = [
     },
     metrics: { en: ["Profitability", "Discount Impact", "Shipping Efficiency"], ar: ["الربحية", "تأثير الخصومات", "كفاءة الشحن"] },
     tech: ["Power BI", "DAX", "Power Query", "Business Insights"],
-    image: "assets/superstore-dashboard.jpg"
+    image: "./assets/superstore-dashboard.jpg"
   },
   {
     title: { en: "E-commerce Customer Analytics Dashboard", ar: "لوحة تحليلات عملاء التجارة الإلكترونية" },
@@ -126,7 +126,7 @@ const projects = [
     },
     metrics: { en: ["1.52M Revenue", "14.512K Orders", "266K Customers"], ar: ["1.52M إيرادات", "14.512K طلب", "266K عميل"] },
     tech: ["Power BI", "DAX", "Customer Analytics", "Data Modeling"],
-    image: "assets/customer-analytics.jpg"
+    image: "./assets/customer-analytics.jpg"
   },
   {
     title: { en: "E-Commerce Sales Dashboard", ar: "لوحة مبيعات التجارة الإلكترونية" },
@@ -137,7 +137,7 @@ const projects = [
     },
     metrics: { en: ["KPI Cards", "Revenue Trends", "Device Analysis"], ar: ["بطاقات مؤشرات", "اتجاهات الإيرادات", "تحليل الأجهزة"] },
     tech: ["Power BI", "DAX", "Power Query"],
-    image: "assets/ecommerce-sales.jpg"
+    image: "./assets/ecommerce-sales.jpg"
   },
   {
     title: { en: "E-Commerce Sales Performance Dashboard", ar: "لوحة أداء مبيعات التجارة الإلكترونية" },
@@ -148,7 +148,7 @@ const projects = [
     },
     metrics: { en: ["60.143M Revenue", "57.01M Net Revenue", "5.00% Return Rate"], ar: ["60.143M إيرادات", "57.01M صافي إيرادات", "5.00% معدل إرجاع"] },
     tech: ["Power BI", "DAX", "Power Query", "Data Modeling", "Time Intelligence"],
-    image: "assets/ecommerce-performance.jpg"
+    image: "./assets/ecommerce-performance.jpg"
   },
   {
     title: { en: "E-Commerce Analysis", ar: "تحليل التجارة الإلكترونية" },
@@ -159,7 +159,7 @@ const projects = [
     },
     metrics: { en: ["5 Pages", "33 DAX Measures", "Advanced KPIs"], ar: ["5 صفحات", "33 مقياس DAX", "مؤشرات متقدمة"] },
     tech: ["Power BI", "DAX", "Power Query", "Data Modeling"],
-    image: "assets/ecommerce-analysis.jpg"
+    image: "./assets/ecommerce-analysis.jpg"
   },
   {
     title: { en: "Samsung Global Sales Intelligence", ar: "تحليل مبيعات سامسونج العالمية" },
@@ -170,7 +170,7 @@ const projects = [
     },
     metrics: { en: ["$22.91M Revenue", "40 Countries", "$627 AOV"], ar: ["$22.91M إيرادات", "40 دولة", "$627 متوسط الطلب"] },
     tech: ["Power BI", "DAX", "Power Query", "Star Schema"],
-    image: "assets/samsung-sales.jpg"
+    image: "./assets/samsung-sales.jpg"
   },
   {
     title: { en: "Automotive Market Analysis", ar: "تحليل سوق السيارات" },
@@ -181,7 +181,7 @@ const projects = [
     },
     metrics: { en: ["7.49B Sales", "547.7K Cars Sold", "13.68K Avg Price"], ar: ["7.49B مبيعات", "547.7K سيارة", "13.68K متوسط السعر"] },
     tech: ["Power BI", "Power Query", "Data Analysis", "Visualization"],
-    image: "assets/automotive-market.jpg"
+    image: "./assets/automotive-market.jpg"
   },
   {
     title: { en: "Smartwatch Market Analysis", ar: "تحليل سوق الساعات الذكية" },
@@ -192,7 +192,7 @@ const projects = [
     },
     metrics: { en: ["$2.228M Revenue", "$618 Avg Price", "61.9% Used"], ar: ["$2.228M إيرادات", "$618 متوسط السعر", "61.9% مستخدم"] },
     tech: ["Power BI", "Power Query", "Data Cleaning", "Data Modeling"],
-    image: "assets/smartwatch-market.jpg"
+    image: "./assets/smartwatch-market.jpg"
   },
   {
     title: { en: "Airline Sector Analysis", ar: "تحليل قطاع الطيران" },
@@ -203,7 +203,7 @@ const projects = [
     },
     metrics: { en: ["25 Events", "7 Periods", "10.74% Avg Margin"], ar: ["25 حدث", "7 فترات", "10.74% متوسط الهامش"] },
     tech: ["Trend Analysis", "Risk Analysis", "BI", "Decision Support"],
-    image: "assets/airline-sector.jpg"
+    image: "./assets/airline-sector.jpg"
   }
 ];
 
